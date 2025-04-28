@@ -39,3 +39,4 @@ email = "mounikapriti@durgasoft.com"
 domain = email[email.index("@")+1:]
 print(domain)
 
+print(1000+7)
